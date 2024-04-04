@@ -17,7 +17,8 @@ This project also requires the following Python libraries: `requests` and `phone
 
 ```bash
 pip install requests phonenumbers
-Usage
+
+## Usage
 To use TracksMaster, follow these steps:
 
 Clone the repository or download the source code.
@@ -25,19 +26,19 @@ Open a terminal in the project directory.
 Run the script with Python:
 bash
 Copy code
-python tracks_master.py
+python TrackMaster.py
 Follow the on-screen prompts to select the tracking option you want to use.
 Contribution
 Contributions to TracksMaster are welcome. Before contributing, please ensure you understand the ethical considerations and intend your contributions for educational purposes only.
 
-License
+## License
 TracksMaster is provided under the MIT License. By using TracksMaster, you agree to use it in a manner consistent with ethical guidelines and its intended educational purposes.
 
-Disclaimer
+## Disclaimer
 TracksMaster is for educational purposes only. The author, Ahmed (DaZR95), is not responsible for misuse or for any damage that may occur from using this tool. Always ensure you have permission before engaging in any tracking activities.
 
-Contact
+## Contact
 For any queries or suggestions, feel free to reach out to the author.
 
 Author: Ahmed (DaZR95)
-Email: [Insert Email Here]
+Email: songstudio01017014208@gmail.com
